@@ -1,0 +1,50 @@
+body{
+    background-color: aqua;
+}
+.container{
+    display: flex;
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    justify-content: space-around;
+    align-items: flex-start;
+    background-color: aliceblue;
+    animation-name: kozepre;
+
+}
+#kek{
+    width: 60px;
+    height: 60px;
+    background-color: blue;
+    order: 1;
+}
+#piros{
+    width: 60px;
+    height: 60px;
+    background-color: red;
+    order: 2;
+}
+#lila{
+    width: 60px;
+    height: 60px;
+    background-color: purple;
+    order: 3;
+}
+#zold{
+    width: 60px;
+    height: 60px;
+    background-color: greenyellow;
+    order: 4;
+}
+#narany{
+    width: 60px;
+    height: 60px;
+    background-color: orange;
+    order: 5;
+}
+#sarga{
+    width: 60px;
+    height: 60px;
+    background-color:yellow;
+    order: 6;
+}
